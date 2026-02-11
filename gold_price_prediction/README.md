@@ -63,4 +63,4 @@ To run this project locally, follow these steps on Terminal:
     * Launch Google Colab: https://colab.research.google.com/
     * Open the Gold_Price_Prediction.ipynb file and run the notebook cells sequentially.
   * Install dependencies: `pip install pandas numpy yfinance scikit-learn xgboost matplotlib`
-  * Open the Notebook: `jupyter notebook Gold_price_Predictions.ipynb`
+* Open the Notebook: `jupyter notebook Gold_price_Predictions.ipynb`
