@@ -39,7 +39,7 @@ We developed two distinct strategies based on model performance:
 
 ## 📈 Performance (Backtest vs. Reality)
 
-### Training Phase (2016 - 2023)
+### Training Phase (2016 - 2024)
 * **Precision (Up Moves):** ~60-70%
 
 ### Live Simulation (Last 30 Days - Unseen Data)
